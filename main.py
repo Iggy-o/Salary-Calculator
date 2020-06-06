@@ -1,9 +1,9 @@
 '''
 Ighoise Odigie
-June 1, 2020
+June 5, 2020
 Youtube: https://www.youtube.com/channel/UCud4cJjtCjEwKpynPz-nNaQ?
 Github: https://github.com/Iggy-o
-Preview: https://repl.it/@IghoiseO/Sorter-Plus#script.js
+Preview: https://repl.it/https:/@IghoiseO/Salary-Calculator#main.py
 '''
 
 #<!--Welcome Script-->
